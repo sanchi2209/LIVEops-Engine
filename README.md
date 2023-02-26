@@ -1,1 +1,2 @@
-# LIVEops-Engine
+# liveOpsEngine
+frontend and backend both
